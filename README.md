@@ -13,7 +13,6 @@ Database yang digunakan bernama volunteer_db dan terdiri dari empat tabel, yaitu
 Alur kerja aplikasi ini sangat sederhana. Ketika pengguna pertama kali membuka aplikasi, halaman yang tampil adalah daftar volunteer. Dari menu navigasi, pengguna dapat berpindah ke bagian lain sesuai kebutuhan. Setiap bagian sudah dilengkapi dengan fitur CRUD (Create, Read, Update, Delete), sehingga pengguna dapat menambah, melihat, mengubah, maupun menghapus data dengan mudah. Setelah melakukan penyimpanan atau perubahan data, sistem secara otomatis akan kembali ke halaman daftar dan menampilkan data yang sudah diperbarui.
 
 **Dokumentasi**
-## Demo Video
 [![Video Dokumentasi](https://img.youtube.com/vi/M7DQuRyc-zI/0.jpg)](https://youtu.be/M7DQuRyc-zI)
 
 
